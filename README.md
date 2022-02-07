@@ -11,4 +11,12 @@ Projeto desenvolvido durante o curso de spring da alura, os seguintes tópicos f
 * @RestController;
 * Spring Boot DevTools;
 * padrão DTO (Data Transfer Object);
-* Os principais conceitos sobre o modelo arquitetural REST
+* Spring JPA
+* Hibernate
+* Configurar DB no Spring
+* DB h2
+* Anotações @Entity, @Id, @GeneratedValue, @ManyToOne, @OneToMany e @Enumerated;
+* Popular automaticamente o DB no Spring Boot
+* JPARepository do Spring Data JPA; 
+* Criar consultas pelo JPARepository
+* Anotação @Query;
