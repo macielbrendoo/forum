@@ -23,3 +23,5 @@ Projeto desenvolvido durante o curso de spring da alura, os seguintes tópicos f
 * Anotação @RequestMapping na classe
 * Anotação @PostMapping e @GetMapping
 * ResponseEntity
+* BeanValidation
+* Anotações @NotNull, @NotEmpty, @Size, @Valid, @RestControllerAdvice, @ExceptionHandler e @ResponseStatus
