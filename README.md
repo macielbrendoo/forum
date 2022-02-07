@@ -25,3 +25,6 @@ Projeto desenvolvido durante o curso de spring da alura, os seguintes tópicos f
 * ResponseEntity
 * BeanValidation
 * Anotações @NotNull, @NotEmpty, @Size, @Valid, @RestControllerAdvice, @ExceptionHandler e @ResponseStatus
+* Anotações @PathVariable, @PutMapping, @Transactional, @DeleteMapping
+* Tratar objetos não encontrados com o `findById`
+* Usando o objeto `Optional<>`
