@@ -20,3 +20,6 @@ Projeto desenvolvido durante o curso de spring da alura, os seguintes tópicos f
 * JPARepository do Spring Data JPA; 
 * Criar consultas pelo JPARepository
 * Anotação @Query;
+* Anotação @RequestMapping na classe
+* Anotação @PostMapping e @GetMapping
+* ResponseEntity
