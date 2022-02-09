@@ -28,3 +28,11 @@ Projeto desenvolvido durante o curso de spring da alura, os seguintes tópicos f
 * Anotações @PathVariable, @PutMapping, @Transactional, @DeleteMapping
 * Tratar objetos não encontrados com o `findById`
 * Usando o objeto `Optional<>`
+
+# Spring Boot API Rest: Segurança da API, Cache e Monitoramento
+
+Iniciou a continuidade do curso acima, onde foi aprensentado os seguintes tópicos:
+* Interface `Pageable`
+* Objeto `Page`
+* Ordenação com `Pageable`
+* Anotação `@SpringDataWebSupport`
